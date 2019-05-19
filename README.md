@@ -1,2 +1,1 @@
-# person_prj_5
-Person [Responsive]
+# Person [Responsive]
